@@ -47,4 +47,4 @@ async def on_message(message):
         await message.channel.send(gen_pass(10))   
 
 
-client.run("MTEyMTc4NDc3Njc0Mzk4OTM1MQ.Gsz_SZ.V0bStBuRGSDbw24Vrp1yK5ISzoMKkcsfukCbNc")
+client.run("TOKEN")
