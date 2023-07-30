@@ -43,4 +43,4 @@ async def math(ctx):
         picture3 = discord.File(f)
     await ctx.send(file=picture3)
 
-bot.run("MTEyMTc4NDc3Njc0Mzk4OTM1MQ.GlCQ25.-DN3xD1H-tFw0JHjhLrHFBAKgdJ_NaIgzF3nkY")
+bot.run("TOKEN")
