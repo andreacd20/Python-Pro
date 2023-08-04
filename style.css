@@ -19,6 +19,29 @@ h2 {
     font-family: 'Inter';
     text-decoration: underline;
 }
+h3 {
+    color:  #d1fa67;
+    font-size: 22px;
+    font-family: 'Inter';
+}
 img {
     border: 7px solid #FD98FB;
+}
+
+@keyframes color-change {
+    0% {
+      color: #FD98FB;
+    }
+  
+    50% {
+      color: #c3f050;
+    }
+  
+    100% {
+      color: #FD98FB;
+    }
+}
+
+h1:hover {
+    animation: color-change 5s infinite;
 }
