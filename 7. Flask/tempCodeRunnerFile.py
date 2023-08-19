@@ -1,0 +1,1 @@
+    # return <a href="/random_fact">View a random fact!</a>
